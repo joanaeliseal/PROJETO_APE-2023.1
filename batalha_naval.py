@@ -1,3 +1,5 @@
+# Alunas: Joana Elise, Letícia Leite, Maira Larissa e Thayná Rodrigues
+
 #importando módulos
 import random
 import pickle
