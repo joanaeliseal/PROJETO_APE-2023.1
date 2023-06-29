@@ -18,7 +18,7 @@ Projeto para a disciplina de Algoritmos e Programação Estruturada (APE), com o
 Esse projeto foi construido usando a linguagem Python:
 
 - [Python](https://www.python.org/)
-- [Comunidade Python Brasil](hhttps://python.org.br/)
+- [Comunidade Python Brasil](https://python.org.br/)
 
 
 ## ▶️ Código
