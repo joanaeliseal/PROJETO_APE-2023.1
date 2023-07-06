@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Projeto para a disciplina de Algoritmos e Programação Estruturada (APE), com o objetivo de criar o jogo Batalha Naval. Veja o arquivo [Especificações do projeto](https://docs.google.com/document/d/1EWGlK_67IMfvAewYMYd7GJwPmvoVM4K4DXNDYit8jD4/edit) para conferir os detalhes.
+Projeto para a disciplina de Algoritmo e Programação Estruturada (APE), com o objetivo de criar o jogo Batalha Naval. Veja o arquivo [Especificações do projeto](https://docs.google.com/document/d/1EWGlK_67IMfvAewYMYd7GJwPmvoVM4K4DXNDYit8jD4/edit) para conferir os detalhes.
 
 ## ✨ Tecnologia
 
@@ -28,7 +28,8 @@ Você pode clonar esse repositório com Git e rodar na sua máquina.
 ```sh
 git clone https://github.com/joanaeliseal/PROJETO_APE-2023.1
 ```
-
+Link do Replit:
+- [Jogue aqui!](https://replit.com/@LeticiaLeite2/Batalha-naval)
 
 ## 📝 Alunas
 

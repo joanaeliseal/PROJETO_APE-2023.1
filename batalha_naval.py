@@ -1,3 +1,5 @@
+# Alunas: Joana Elise, Letícia Leite, Maira Larissa e Thayná Rodrigues
+
 #importando módulos
 import random
 import pickle
@@ -58,8 +60,15 @@ def atacar(tabuleiro, linha, coluna):
         tabuleiro[linha][coluna] = '\033[31m'+'F '+'\033[m'
         return True
     else:
-        print("\033[36m"+"\033[1m"+"ÁGUA!"+"\033[m")
-        tabuleiro[linha][coluna] = '\033[36m'+'A '+'\033[m'
+        if tabuleiro[linha][coluna] == '\033[32m'+'F '+'\033[m':
+            print("Você já atirou aí!")
+            return False
+        elif tabuleiro[linha][coluna] == '\033[36m'+'A '+'\033[m':
+            print("Você já atirou aí!")
+            return False
+        else:
+            print("\033[36m"+"\033[1m"+"ÁGUA!"+"\033[m")
+            tabuleiro[linha][coluna] = '\033[36m'+'A '+'\033[m'
         return False
 
 # Função para verificar se todos os navios foram afundados
